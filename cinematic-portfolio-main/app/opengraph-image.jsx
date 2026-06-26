@@ -3,7 +3,7 @@ import { ImageResponse } from 'next/og'
 
 export const runtime = 'edge'
 
-export const alt = 'Jyoti Sinha | Software Engineer'
+export const alt = 'Anirudh Koppuravuri | Software Engineer'
 
 export const size = {
   width: 1200,
@@ -13,7 +13,7 @@ export const size = {
 export const contentType = 'image/png'
 
 const ACCENT = '#f7931e'
-const photoUrl = `${SITE_URL}/assets/jyoti-about.jpeg`
+const photoUrl = `${SITE_URL}/assets/anirudh-about.jpeg`
 
 export default function Image() {
   return new ImageResponse(
@@ -100,7 +100,7 @@ export default function Image() {
                 letterSpacing: -4,
               }}
             >
-              JYOTI
+              ANIRUDH
             </span>
 
             <span
@@ -111,7 +111,7 @@ export default function Image() {
                 letterSpacing: -4,
               }}
             >
-              SINHA
+              KOPPURAVURI
             </span>
           </div>
 
@@ -125,8 +125,8 @@ export default function Image() {
               marginBottom: 34,
             }}
           >
-            Enterprise workload automation, production support, and
-            AI-assisted operations for critical systems.
+           Building Scalabe Software Solutions
+            with Artificial Intelligence.
           </div>
 
           {/* TAGS */}
@@ -140,7 +140,7 @@ export default function Image() {
           >
             {[
               'Control-M',
-              'L3 Support',
+              'Computer Vision',
               'Automation',
               'Agentic AI',
             ].map((tag) => (
@@ -169,9 +169,9 @@ export default function Image() {
             }}
           >
             {[
-              ['15+', 'Years'],
-              ['8+', 'Roles'],
-              ['CTM + AI', 'Specialist'],
+              ['1+', 'Years'],
+              ['2+', 'Roles'],
+              ['Web + AI', 'Specialist'],
             ].map(([value, label]) => (
               <div
                 key={label}
@@ -222,7 +222,7 @@ export default function Image() {
             src={photoUrl}
             width={420}
             height={630}
-            alt="Jyoti Sinha"
+            alt="Anirudh Koppuravuri"
             style={{
               objectFit: 'cover',
             }}
@@ -250,7 +250,7 @@ export default function Image() {
             letterSpacing: 2,
           }}
         >
-          jyoti-sinha-portfolio.vercel.app
+          Anirudh-Koppuravuri-portfolio.vercel.app
         </div>
       </div>
     ),
