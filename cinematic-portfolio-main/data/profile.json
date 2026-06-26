@@ -1,177 +1,192 @@
 {
   "name": {
-    "first": "Jyoti",
-    "last": "Sinha",
-    "full": "Jyoti Sinha"
+    "first": "Anirudh",
+    "last": "Koppuravuri",
+    "full": "Anirudh Koppuravuri"
   },
-  "email": "jyotisinha0526@gmail.com",
-  "tagline": "Designing reliable Control-M operations, automation, and AI-assisted support systems.",
-  "description": "Control-M SME and production support specialist with 15+ years across banking, enterprise workload automation, ITSM, RPA, and AI-assisted operations.",
+  "email": "anirudhkoppuravuri1@gmail.com",
+  "tagline": "Building intelligent systems at the intersection of AI, software engineering, and product innovation.",
+  "description": "Computer Science Engineering student at VIT Vellore, specializing in AI engineering, agentic systems, and full-stack development. Building real-world solutions from molecular AI to intelligent automation.",
   "roles": {
-    "short": "Software Engineer",
-    "detailed": "Control-M SME | Production L3 Support | Agentic AI Automation"
+    "short": "AI Engineer",
+    "detailed": "Computer Science Student  •  AI Engineer  •  Product Builder"
   },
   "location": {
-    "based": "Singapore",
-    "availability": "Singapore / Remote"
+    "based": "India",
+    "availability": "Remote / India"
   },
   "available": true,
-  "bio": "IT professional with 15+ years of experience in Control-M administration, batch workflow design, production support, infrastructure management, automation, and ITIL-led service delivery. Currently supporting enterprise Control-M customers at BMC Software, with deep experience across banking environments, Unix/Linux and Windows platforms, shell scripting, Python, SQL, VBA, UiPath RPA, REST APIs, and AI-assisted support tooling.",
+  "bio": "Second-year Computer Science Engineering student at VIT Vellore (CGPA 8.9) with hands-on experience in AI/ML research, full-stack development, and intelligent automation. Currently building an AI Drug Discovery Platform at Curexa Labs and serving as a Teaching Assistant at SkoolOfCode. Passionate about agentic AI, graph neural networks, diffusion models, and scalable software architecture. Published AI/ML research and ranked 3rd among 200 participants at Code Vipassanna by Google.",
   "stats": [
-    { "value": "15+", "label": "Years Experience" },
-    { "value": "8+", "label": "Enterprise Roles" },
-    { "value": "2", "label": "AI Automation Projects" }
+    { "value": "6+", "label": "Projects Built" },
+    { "value": "20+", "label": "Certifications" },
+    { "value": "5+", "label": "Hackathons" }
   ],
   "skills": [
-    "Control-M SME",
-    "L2/L3 Support",
-    "Batch Scheduling",
-    "Production Support",
-    "Agentic AI",
-    "Automation",
-    "Unix/Linux",
-    "Shell Scripting",
+    "AI Engineering",
+    "Agentic Systems",
+    "Full Stack Dev",
+    "Deep Learning",
+    "Graph Neural Networks",
+    "Product Development",
+    "Intelligent Automation",
+    "Scalable Architecture",
     "Python",
-    "SQL",
-    "UiPath RPA",
-    "ITIL",
-    "ServiceNow",
-    "Jira",
-    "RCA",
-    "REST API"
+    "PyTorch",
+    "React",
+    "FastAPI",
+    "Docker",
+    "GCP"
   ],
   "experience": [
     {
       "id": 1,
-      "role": "Control-M Staff Technical Analyst",
-      "company": "BMC Software Asia Pacific Pte Ltd",
-      "companyShort": "BMC SOFTWARE",
-      "type": "Full-time",
-      "location": "Singapore",
-      "period": "Nov 2022",
+      "role": "AI Drug Discovery Engineer Intern",
+      "company": "Curexa Labs",
+      "companyShort": "CUREXA LABS",
+      "type": "Internship",
+      "location": "Remote",
+      "period": "Feb 2026",
       "periodEnd": "Present",
       "bullets": [
-        "Provide Level 2 and Level 3 technical support for Control-M across enterprise Linux, Unix, and Windows environments.",
-        "Advise global customers on Control-M architecture, workload optimization, upgrades, migrations, compatibility, and operational best practices.",
-        "Perform RCA, reproduce customer issues in lab environments, validate fixes, manage escalations to R&D, and publish knowledge articles and videos.",
-        "Built AI-powered Control-M Log Analyzer and Salesforce case follow-up automation to reduce manual investigation and improve support response time."
+        "Implementing molecular graph representation learning using PyTorch Geometric, improving predictive accuracy by 30% on ChEMBL and PubChem datasets.",
+        "Integrating diffusion-based generative models to synthesize candidate molecules, increasing novel compound discovery by 35%.",
+        "Developing automated data annotation pipelines using RDKit, reducing dataset preparation time by 40% while enabling scalable model training."
       ],
-      "desc": "Enterprise Control-M technical support, architecture advisory, RCA, escalation management, upgrade planning, and AI-assisted automation for global customers.",
-      "tech": ["Control-M", "Linux", "Unix", "Windows", "Python", "OpenAI API", "React", "Node.js", "ITSM"]
+      "desc": "AI-driven drug discovery platform leveraging graph neural networks, diffusion models, and automated molecular pipelines for biomedical research.",
+      "tech": ["Python", "PyTorch", "Graph Neural Networks", "RDKit", "PyG", "Diffusion Models"]
     },
     {
       "id": 2,
-      "role": "Control-M Analyst",
-      "company": "United Overseas Bank (UOB)",
-      "companyShort": "UOB",
-      "type": "Full-time",
-      "location": "Singapore",
-      "period": "Aug 2021",
-      "periodEnd": "Nov 2022",
+      "role": "Teaching Assistant",
+      "company": "SkoolOfCode",
+      "companyShort": "SKOOLOFCODE",
+      "type": "Part-time",
+      "location": "Remote",
+      "period": "Ongoing",
+      "periodEnd": "Present",
       "bullets": [
-        "Supported Operations & Technology Control-M administration, scheduling, production support, and batch workflow management.",
-        "Automated manual activities using VB scripting, VBA macros, batch scripts, Unix shell scripts, and SQL to improve operational efficiency.",
-        "Implemented LDAP authentication for Control-M access and supported upgrades, migrations, HA setup, DR checks, and production changes.",
-        "Handled incidents, problems, and changes through Remedy, Jira, and ServiceNow while coordinating with application, infrastructure, and business teams."
+        "Delivering Python programming instruction to students, reinforcing fundamentals through structured problem-solving and project-based learning.",
+        "Developing curriculum materials and guiding students through algorithmic thinking, data structures, and applied coding challenges.",
+        "Providing one-on-one mentorship to accelerate student progress and build confidence in software development."
       ],
-      "desc": "Control-M SME support for banking operations, automation, access management, batch execution, DR verification, and ITIL-aligned service delivery.",
-      "tech": ["Control-M", "Unix", "Shell", "VBA", "SQL", "Remedy", "Jira", "ServiceNow", "AIX"]
+      "desc": "Python programming instruction and curriculum development for students, combining pedagogy with applied software engineering fundamentals.",
+      "tech": ["Python", "Pedagogy", "Curriculum Design", "DSA", "Problem Solving"]
     },
     {
       "id": 3,
-      "role": "RPA Consultant & Business Analyst",
-      "company": "ABeam Consulting (OCBC Bank)",
-      "companyShort": "ABEAM / OCBC",
-      "type": "Consulting",
-      "location": "Singapore",
-      "period": "Jun 2019",
-      "periodEnd": "Mar 2020",
+      "role": "MERN Stack Intern",
+      "company": "BITS Hyderabad",
+      "companyShort": "BITS HYDERABAD",
+      "type": "Internship",
+      "location": "Hyderabad",
+      "period": "Apr 2025",
+      "periodEnd": "Jul 2025",
       "bullets": [
-        "Delivered end-to-end UiPath automation solutions for banking operations, reducing manual processing across multiple business processes.",
-        "Gathered requirements with stakeholders and authored BRD, PDD, and SDD documentation for automation delivery.",
-        "Designed workflows with exception handling, screen scraping, data scraping, CSV/Excel outputs, and reliable bot scheduling through UiPath Orchestrator."
+        "Developed and deployed full-stack web applications using the MERN stack, integrating AI-based chatbots and automation tools to enhance user experience by 60%.",
+        "Built modular backend services and optimized database queries, improving application performance and API response latency significantly.",
+        "Delivered production-ready features across React frontend and Node.js/Express backend with MongoDB data layer."
       ],
-      "desc": "RPA delivery and business analysis for card operations, billing, merchant payment processes, and production automation workflows.",
-      "tech": ["UiPath", "RPA", "BRD", "PDD", "SDD", "Excel", "Automation", "Banking"]
+      "desc": "Full-stack MERN development with AI chatbot integration, backend optimization, and production deployment for web applications.",
+      "tech": ["MongoDB", "Express", "React", "Node.js", "AI Chatbots", "REST APIs"]
     },
     {
       "id": 4,
-      "role": "Control-M Analyst",
-      "company": "Bank of Singapore",
-      "companyShort": "BOS",
-      "type": "Full-time",
-      "location": "Singapore",
-      "period": "May 2018",
-      "periodEnd": "Apr 2019",
+      "role": "Undergraduate Research Assistant",
+      "company": "VIT Vellore",
+      "companyShort": "VIT",
+      "type": "Research",
+      "location": "Vellore",
+      "period": "Dec 2025",
+      "periodEnd": "Feb 2026",
       "bullets": [
-        "Provided end-to-end production support for Control-M failures, workflow development, server management, environment changes, and upgrades.",
-        "Managed Control-M/EM components, agents, calendars, dependencies, post-processing alerts, urgent changes, and weekend implementation roadmaps.",
-        "Worked with teams on RCA, proactive batch cycle analysis, SLA adherence, and production incident reduction across Unix, Windows, and T24 workflows."
+        "Developed a REST API using FastAPI and PostgreSQL to store and manage data from learning management systems.",
+        "Conducted deep research on Artificial Intelligence and Machine Learning with focus on AI integration in technology and published a research paper.",
+        "Contributed to academic knowledge base through IEEE-formatted research on addressing modes for ISA design."
       ],
-      "desc": "Production support and Control-M administration for banking operations, change delivery, workflow design, and incident resolution.",
-      "tech": ["Control-M", "Unix", "Windows", "T24", "RCA", "SLA", "Change Management"]
+      "desc": "AI/ML research focused on practical applications, REST API development, and published academic contributions in computer architecture.",
+      "tech": ["FastAPI", "PostgreSQL", "Python", "Research", "IEEE", "REST API"]
     }
   ],
   "projects": [
     {
       "id": 1,
-      "title": "Log Analyzer",
-      "subtitle": "AI-Powered RCA Assistant",
-      "type": "Agentic AI",
-      "link": "https://ctm-log-analyzer.netlify.app/",
+      "title": "AI Drug Discovery",
+      "subtitle": "Molecular Graph Learning Platform",
+      "type": "AI / Biotech",
+      "link": "https://github.com/Anirudh01-os",
       "image": "/assets/project-artgenio1.png",
-      "tech": ["React", "Node.js", "OpenAI API", "Prompt Engineering", "Control-M", "Log Analysis"],
-      "desc": "Designed and developed an LLM-powered support tool that analyzes Control-M logs, extracts structured insights from unstructured data, and surfaces probable root causes with actionable troubleshooting steps."
+      "tech": ["Python", "PyTorch", "Graph Neural Networks", "RDKit", "Diffusion Models"],
+      "desc": "Implemented molecular graph representation learning and diffusion-based generative models using PyTorch Geometric and biomedical datasets from ChEMBL and PubChem, improving predictive accuracy by 30% and novel compound discovery by 35%."
     },
     {
       "id": 2,
-      "title": "Case Follow-Up Automation",
-      "subtitle": "AI-Driven Support Workflow",
-      "type": "Automation",
-      "link": "https://www.linkedin.com/feed/update/urn:li:activity:7453443679396003840/",
+      "title": "OptimaX",
+      "subtitle": "AI Financial Analysis Workflows",
+      "type": "Automation / AI",
+      "link": "https://github.com/Anirudh01-os",
       "image": "/assets/project-easyfolio1.png",
-      "tech": ["Python", "Salesforce", "SMTP", "AI Automation", "SLA", "Support Ops"],
-      "desc": "Built a Python-based automation system to monitor support cases and trigger intelligent follow-up emails, improving response time, reducing manual effort, and strengthening SLA compliance."
+      "tech": ["Python", "n8n", "LLM Orchestration", "Multimodal Transformers"],
+      "desc": "Built intelligent financial analysis workflows using n8n and multimodal learning pipelines integrating textual signals, financial indicators, and time-series data. Achieved 3x faster quantitative decision generation and 60% reduction in manual overhead."
+    },
+    {
+      "id": 3,
+      "title": "Treads",
+      "subtitle": "AI-Powered Fashion Platform",
+      "type": "Product / AI",
+      "link": "https://github.com/Anirudh01-os",
+      "image": "/assets/work-experience.webp",
+      "tech": ["React", "Node.js", "Computer Vision", "AI Recommendations", "MongoDB"],
+      "desc": "An AI-powered e-wardrobe platform combining virtual try-on experiences, intelligent outfit recommendations, and wardrobe management into a unified fashion-tech ecosystem. Currently in active development."
+    },
+    {
+      "id": 4,
+      "title": "Agentic OS",
+      "subtitle": "Autonomous Workflow Operating System",
+      "type": "Agentic AI",
+      "link": "https://github.com/Anirudh01-os",
+      "image": "/assets/mobile-footer.webp",
+      "tech": ["Python", "LLM Agents", "Workflow Orchestration", "Automation"],
+      "desc": "A next-generation operating system concept leveraging autonomous AI agents to orchestrate workflows, automate repetitive tasks, and coordinate intelligent decision-making across applications and services."
     }
   ],
   "publications": [
     {
       "id": 1,
-      "title": "Control-M Log Analyzer",
-      "platform": "Live Demo",
+      "title": "AI Drug Discovery Platform",
+      "platform": "Curexa Labs",
       "year": "2026",
-      "link": "https://ctm-log-analyzer.netlify.app/",
-      "desc": "An AI-powered log analysis prototype for Control-M support, using LLM workflows to detect likely root causes and generate troubleshooting guidance."
+      "link": "https://github.com/Anirudh01-os",
+      "desc": "Molecular graph learning and diffusion-based generative models for automated drug candidate synthesis, achieving 35% improvement in novel compound discovery rates."
     },
     {
       "id": 2,
-      "title": "AI-Driven Salesforce Case Follow-Up",
-      "platform": "LinkedIn",
-      "year": "2026",
-      "link": "https://www.linkedin.com/feed/update/urn:li:activity:7453443679396003840/",
-      "desc": "A support automation concept using Python and AI-assisted monitoring to improve follow-up discipline, response speed, and SLA adherence."
+      "title": "Multimodal Deepfake Detection",
+      "platform": "Medium / Google",
+      "year": "2025",
+      "link": "https://github.com/Anirudh01-os",
+      "desc": "Ranked 3rd among 200 participants at Code Vipassanna by Google. Published a blog detailing our multimodal deepfake detection system architecture and results."
     },
     {
       "id": 3,
-      "title": "Enterprise Control-M Advisory",
-      "platform": "Practice Area",
-      "year": "2026",
-      "link": "mailto:jyotisinha0526@gmail.com",
-      "desc": "Architecture, sizing, upgrade planning, migration support, compatibility guidance, RCA, and runbook validation for Control-M environments."
+      "title": "OptimaX Financial AI Workflows",
+      "platform": "Research Project",
+      "year": "2025",
+      "link": "https://github.com/Anirudh01-os",
+      "desc": "Multimodal learning pipelines integrating textual, financial, and time-series signals for quantitative decision support — 28% improvement in strategy prediction accuracy."
     },
     {
       "id": 4,
-      "title": "RPA & Process Documentation",
-      "platform": "Practice Area",
+      "title": "AI/ML Research Publication",
+      "platform": "ResearchGate",
       "year": "2026",
-      "link": "mailto:jyotisinha0526@gmail.com",
-      "desc": "Business analysis, PDD and SDD creation, UiPath workflow delivery, and production-ready automation design for banking operations."
+      "link": "https://github.com/Anirudh01-os",
+      "desc": "Published research on AI integration in technology, covering applied machine learning systems and their practical deployment in production environments."
     }
   ],
   "socials": [
-    { "label": "GitHub",    "href": "https://github.com/jyotisinha0526/jyotisinha0526" },
-    { "label": "LinkedIn",  "href": "https://www.linkedin.com/in/jyoti-sinha-05349736" },
-    { "label": "Instagram", "href": "https://www.instagram.com/jyotisinha.official" },
-    { "label": "YouTube",   "href": "https://www.youtube.com/@Jyoti.ai.creative" }
+    { "label": "GitHub",    "href": "https://github.com/Anirudh01-os" },
+    { "label": "LinkedIn",  "href": "https://linkedin.com/in/anirudh-koppuravuri" },
+    { "label": "Instagram", "href": "https://instagram.com/_.urstrulyanirudh._" }
   ]
 }
